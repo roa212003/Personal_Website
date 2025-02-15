@@ -1,0 +1,24 @@
+languageCode = "fr-BE"
+languageName = "French"
+languageDirection = "ltr"
+weight = 1
+
+title = "Accueil"
+# copyright = "Tran Dai Han"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  description = "Site personnel de TRAN Dai Han"
+
+[params.author]
+  name = "TRAN Dai Han"
+  image = "img/IMG_2036.JPG"
+  headline = "Étudiant Ingénieur - INSA Centre Val de Loire, France"
+  bio = "Site personnel de TRAN Dai Han, étudiant d'ingénieur en quatrième année à l'INSA Centre Val de Loire"
+  links = [
+    { github = "https://github.com/roa212003" },
+    { linkedin = "https://www.linkedin.com/in/han-dtran/" },
+    { instagram = "https://www.instagram.com/trois_21/"},
+    { email = "mailto:trandaihan.contact@gmail.com"}
+  ]
