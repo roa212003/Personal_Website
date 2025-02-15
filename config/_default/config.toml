@@ -8,6 +8,14 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
+[languages]
+  [languages.en]
+    weight = 1
+    languageName = "English"
+  [languages.fr]
+    weight = 2
+    languageName = "Français"
+
 [pagination]
   pagerSize = 10
 
