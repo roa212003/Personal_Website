@@ -29,4 +29,8 @@ googleAnalytics = "G-S64FSW4TK3"
     [markup.goldmark.renderer]
       unsafe = true
 
+[services]
+  [services.googleAnalytics]
+    id = ""
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
