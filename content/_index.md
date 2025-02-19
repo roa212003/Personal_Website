@@ -8,7 +8,7 @@ showComments: false
 ---
 
 
-I’m an Engineering student at INSA Centre Val de Loire, Blois campus, France. I’m passionate about Machine Learning and Deep Learning, especially in Computer Vision. I’m currently working on personal projects to enhance my skills, and I’m looking for an internship in this state-of-the-art field of science.
+I’m an [Engineering](https://www.insa-centrevaldeloire.fr/en/education/speciality-departments/industrial-systems-engineering-gsi) student at INSA Centre Val de Loire, Blois campus, France. I’m passionate about Machine Learning and Deep Learning, especially in Computer Vision. I’m currently working on personal projects to enhance my skills, and I’m looking for an internship in this state-of-the-art field of science.
 
 In my spare time, I create graphic designs and illustrations which you can find on my [Pinterest](https://pinterest.com/daihantran/_created/). I also love to read, 
 and write [blogs](https://medium.com/@trandaihan02012003) about machine learning.
